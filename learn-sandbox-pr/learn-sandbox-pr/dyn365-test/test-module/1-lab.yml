@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-dynamics.module-test.1-lab
+title: Lab - Doing All The Things
+metadata: 
+  title: Lab
+  description: Lab example
+  ms.date: 07/10/2019 
+  author: jayallen
+  ms.author: jayallen
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations 
+  ROBOTS: NOINDEX 
+labId: 55177
+durationInMinutes: 20
+content: | 
+ [!include[](includes/1-lab.md)] 

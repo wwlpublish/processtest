@@ -1,0 +1,29 @@
+### YamlMime:Module 
+uid: learn-dynamics.module-test 
+metadata: 
+ title: Module Test for BAG Learn 
+ description: A test module for testing lab deployments. 
+ ms.date: 02/28/2019  
+ author: jayallen  
+ ms.author: jayallen  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-d365-finance-operations  
+title: Testing lab deployments. 
+summary: Testing lab demployments. 
+abstract: |  
+    In this module, you will learn how to: 
+    - Use a lab. 
+prerequisites: | 
+    - Being lab-errific
+iconUrl: /learn/achievements/accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+products:  
+- dynamics  
+- dynamics-finance-operations 
+units: 
+- learn-dynamics.module-test.1-lab
+badge: 
+  uid: learn-dynamics.module-test.badge 

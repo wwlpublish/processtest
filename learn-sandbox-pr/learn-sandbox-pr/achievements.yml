@@ -1,0 +1,7 @@
+### YamlMime:Achievements
+achievements:
+- uid: learn-dynamics.dyn365-module-test.trophy
+  type: trophy
+  title: Sample Path - Dyn365
+  summary: Sample Path - Dyn365
+  iconUrl: /learn-sandbox-pr/achievements/sample.svg
